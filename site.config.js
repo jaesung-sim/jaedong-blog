@@ -4,7 +4,8 @@ const CONFIG = {
     name: "jaesung",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
-    bio: "const [isTired, setKeepGoing] = useState(true);",
+    bio: "const [isTired, setKeepGoing] 
+      = useState(true);",
     email: "jaesung_sim@naver.com",
     linkedin: "",
     github: "jaesung-sim",
